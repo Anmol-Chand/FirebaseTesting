@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Getting Started with Create React App And Firebase connections
-=======
-# Getting Started with Create React App And Firebase
->>>>>>> 76bb7f94036c1354f580b91948cba77d7a5ea37b
+# Getting Started with React And Firebase connections
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
